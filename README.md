@@ -1,4 +1,4 @@
-![Cover Image](https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3-600x280.png)
+![Cover Image](https://media.licdn.com/dms/image/v2/C5616AQGIzZ0R2uSm0w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650810276523?e=1730937600&v=beta&t=EzrgmtVUpjDEi76C-xnrjfrzDsskIAo-3K6lj-nshew)
 # Hi there, I'm Lidiya Kelay! 👋
 
 Welcome to my GitHub profile. I'm a Mobile Application developer with expertise in a variety of technologies and tools. 
