@@ -1,16 +1,27 @@
-# 
+# Hi there, I'm Lidiya Kelay! 👋
 
-A Flutter application Developer.
+Welcome to my GitHub profile. I'm a Mobile Application developer with expertise in a variety of technologies and tools. 
 
-## Getting Started
+## 🔧 Currently Working On
+- **Mobile App for Shop Management:** Developing a comprehensive app to streamline shop management.
 
-This project is a starting point for a Flutter application.
+## 🛠 Skills & Technologies
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?logo=github-actions&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/lidiya-kelay/)
+- [Email](lidiyakelay@gmail.com)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🌟 Fun Fact
+I love exploring new tech trends and am currently learning about advanced software engineering techniques.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to explore my repositories and connect with me!
+
